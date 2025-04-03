@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwiley21
 - 👀 I’m interested in...
-- 🌱 I’m currently learning computer science at The University of Cincinnati
+- 🌱 I’m currently learning information systems at The University of Cincinnati
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wileyjn@mail.uc.edu | thejacksonwiley21@gmail.com
 
